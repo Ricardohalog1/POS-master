@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT POS and product Inventory System", "IPT POS and product Inventory System\IPT POS and product Inventory System.csproj", "{CCB95686-2BCF-47C4-8DCC-1BF430E87CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB95686-2BCF-47C4-8DCC-1BF430E87CCD}.Debug|x86.ActiveCfg = Debug|x86
+		{CCB95686-2BCF-47C4-8DCC-1BF430E87CCD}.Debug|x86.Build.0 = Debug|x86
+		{CCB95686-2BCF-47C4-8DCC-1BF430E87CCD}.Release|x86.ActiveCfg = Release|x86
+		{CCB95686-2BCF-47C4-8DCC-1BF430E87CCD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

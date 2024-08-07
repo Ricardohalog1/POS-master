@@ -1,0 +1,23 @@
+try
+            {
+                if (txtSearch.Text == String.Empty) { return; }
+                else
+                {
+                    cn.Open();
+                    cm = new SqlCommand("SELECT * FROM tblproduct WHERE barcode LIKE '" + txtSearch.Text + "'", cn);
+                    dr = cm.ExecuteReader();
+                    dr.Read();
+                    if (dr.HasRows)
+                    {
+
+                    }
+                    dr.Close();
+                    cn.Close();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                cn.Close();
+                MessageBox.Show(ex.Message, stitle, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
