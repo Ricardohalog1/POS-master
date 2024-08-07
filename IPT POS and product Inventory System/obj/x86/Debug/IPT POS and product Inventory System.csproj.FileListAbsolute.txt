@@ -1,0 +1,80 @@
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.exe.config
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.exe
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.pdb
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.Form1.resources
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.Properties.Resources.resources
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.GenerateResource.Cache
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.exe
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.pdb
+c:\users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmBrandList.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmBrand.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\MetroFramework.dll
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmCategory.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmCategoryList.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmProduct.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmProductList.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmStockIn.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSearchStockin.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmPOS.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmQty.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmLookUp.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmDiscount.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSettle.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmReceipt.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSoldItem.resources
+C:\Users\ricar\onedrive\documents\visual studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmReportSold.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmUserAccount.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSecurity.resources
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.CopyComplete
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.exe.config
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.exe
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\IPT POS and product Inventory System.pdb
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\MetroFramework.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.Form1.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmBrand.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmBrandList.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmCategory.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmCategoryList.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmDiscount.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmLookUp.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmPOS.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmProduct.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmProductList.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmQty.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmReceipt.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSearchStockin.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSecurity.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSettle.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmSoldItem.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmStockIn.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmUserAccount.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.Properties.Resources.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.GenerateResource.cache
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.exe
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.pdb
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmReportSold.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmCancelDetails.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmVoid.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT_POS_and_product_Inventory_System.frmRecords.resources
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS .78697C74.Up2Date
+C:\Users\ricar\OneDrive\Documents\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documents\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.exe
+C:\Users\ricar\OneDrive\Documents\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.pdb
+C:\Users\ricar\OneDrive\Documents\Visual Studio 2010\Projects\IPT POS and product Inventory System\IPT POS and product Inventory System\obj\x86\Debug\IPT POS and product Inventory System.csprojResolveAssemblyReference.cache
